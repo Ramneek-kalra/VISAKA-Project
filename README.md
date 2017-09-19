@@ -5,4 +5,4 @@ Just download the zip folder and run with customize in Netbeans 8.1 and please f
 
 **************************************************************************************************************************
 
-An Open Source Project for building up database for simple people in Digital India Movement.
+An Open Source Project for building up database for Indian Citizens in Digital India Movement.
